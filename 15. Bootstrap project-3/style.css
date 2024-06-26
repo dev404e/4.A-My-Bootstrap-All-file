@@ -1,0 +1,22 @@
+.banner{
+    height:70vh ;
+    background-image:url(img/bg-masthead.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.input{
+    width:400px;
+    height:40px;
+    border:none ;
+    border-radius:5px ;
+}
+
+.banner-2{
+    height:40vh ;
+    background-image:url(img/bg-masthead.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}

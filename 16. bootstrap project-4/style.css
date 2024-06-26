@@ -1,0 +1,6 @@
+.banner-1{
+    height:80vh ;
+    background-image:url(img/slider-bg.jpg) ;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
